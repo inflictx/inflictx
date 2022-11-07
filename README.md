@@ -2,11 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 
-<!-- <div id="badges" align="center"> <img src ="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
-<div>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-inflictx&style=flat-square&color=blue" alt=""/>
- -->
 
  <div align="center"><h1>
   Hey guys!
@@ -14,7 +9,7 @@
 </h1></div>
 
 <div id = "content" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" 
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" 
   height ="300"/>
 </div>
 
