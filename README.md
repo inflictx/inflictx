@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 
-My name is Alexander Rybakov, and I am a beginner Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+My name is Alexander and I am a beginner Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> from Russia.
 
 - :telescope: _I am studying at a Yandex.Practicum._
 
