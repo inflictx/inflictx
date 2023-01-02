@@ -14,22 +14,22 @@
 
 ### :man_technologist: About Me :
 
-My name is Alexander and I am a beginner Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> from Russia.
+My name is Alexander and I am a beginner Pentester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> from Russia.
 
-- :telescope: _I am studying at a Yandex.Practicum._
+- :telescope: _I am studying at a Codeby.School_
 
-- :books: _I'm learning JavaScript and a react library._
+- :books: _I'm learning the web and networking._
 
-- :zap: _In my free time, I solve problems on CodeWars and read tech articles._
+- :zap: _In my free time, I train by doing tasks on codeby.games and HackTheBox also read tech articles._
 
-- :star2: _I'd like to create an application that will improve and make life easier for people_
+- :star2: _I'd like  to be safe for people to be on the Internet_
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg"  title="ВDEBIAN" alt="Debian" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg"  title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
