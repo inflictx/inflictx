@@ -49,18 +49,25 @@ doctrine:
 
 ### `~/loadout`
 
-```
-recon         ░░░░░  burpsuite pro · httpx · subfinder · gau · ffuf · katana
-fuzzing       ░░░░░  ffuf · arjun · x8 · sqlmap · dalfox
-re / static   ░░░░░  ida pro · ghidra · semgrep · objdump
-proxy / mitm  ░░░░░  burpsuite pro · mitmproxy · playwright
-exploit dev   ░░░░░  python · bash · pwntools · custom mcp tooling
-host          ░░░░░  kali (vbox) · windows host · ssh/socks/wireguard
-```
+**web / recon**
 
-### `~/reads`
+<img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6633?style=for-the-badge&labelColor=0d1117&logo=burpsuite&logoColor=white" alt="Burp Suite Pro" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&labelColor=0d1117&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/httpx-0098EA?style=for-the-badge&labelColor=0d1117" alt="httpx" />
+<img src="https://img.shields.io/badge/ffuf-4B4B4B?style=for-the-badge&labelColor=0d1117" alt="ffuf" />
+<img src="https://img.shields.io/badge/subfinder-0a0a0a?style=for-the-badge&labelColor=0d1117" alt="subfinder" />
+<img src="https://img.shields.io/badge/katana-FF9800?style=for-the-badge&labelColor=0d1117" alt="katana" />
 
-<a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,php,java,kotlin,go,mysql&perline=10" alt="languages" /></a>
+**re / static**
+
+<img src="https://img.shields.io/badge/IDA%20Pro-1B5E20?style=for-the-badge&labelColor=0d1117" alt="IDA Pro" />
+<img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&labelColor=0d1117" alt="Ghidra" />
+<img src="https://img.shields.io/badge/Semgrep-1B73E8?style=for-the-badge&labelColor=0d1117&logo=semgrep&logoColor=white" alt="Semgrep" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&labelColor=0d1117&logo=wireshark&logoColor=white" alt="Wireshark" />
+
+**lab / os**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=kali,linux,docker,git,vim,bash&perline=6" alt="lab" /></a>
 
 ---
 
