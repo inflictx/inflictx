@@ -76,20 +76,14 @@ host          ░░░░░  kali (vbox) · windows host · ssh/socks/wireguar
 
 ---
 
-### `~/stats`
+### `~/info`
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=inflictx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inflictx&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" />
-    </td>
-  </tr>
-</table>
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=inflictx&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" />
+<p>
+  <img src="https://img.shields.io/github/followers/inflictx?style=for-the-badge&color=00ff00&labelColor=0d1117&logo=github&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/location-moscow%2C%20ru-00ff00?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/gmt-%2B3-00ff00?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/disclosure-coordinated-00ff00?style=for-the-badge&labelColor=0d1117" />
+</p>
 
 ---
 
