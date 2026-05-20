@@ -60,17 +60,7 @@ host          ░░░░░  kali (vbox) · windows host · ssh/socks/wireguar
 
 ### `~/reads`
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="32" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="c++" width="32" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="java" width="32" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="kotlin" width="32" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="32" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="php" width="32" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="js" width="32" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="sql" width="32" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="bash" width="32" height="32"/>
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,php,java,kotlin,go,mysql&perline=10" alt="languages" /></a>
 
 ---
 
