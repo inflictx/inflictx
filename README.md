@@ -51,19 +51,11 @@ doctrine:
 
 **web / recon**
 
-<img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6633?style=for-the-badge&labelColor=0d1117&logo=burpsuite&logoColor=white" alt="Burp Suite Pro" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&labelColor=0d1117&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/httpx-0098EA?style=for-the-badge&labelColor=0d1117" alt="httpx" />
-<img src="https://img.shields.io/badge/ffuf-4B4B4B?style=for-the-badge&labelColor=0d1117" alt="ffuf" />
-<img src="https://img.shields.io/badge/subfinder-0a0a0a?style=for-the-badge&labelColor=0d1117" alt="subfinder" />
-<img src="https://img.shields.io/badge/katana-FF9800?style=for-the-badge&labelColor=0d1117" alt="katana" />
+<p><img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6633?style=for-the-badge&labelColor=0d1117&logo=burpsuite&logoColor=white" alt="Burp Suite Pro" /><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&labelColor=0d1117&logo=playwright&logoColor=white" alt="Playwright" /><img src="https://img.shields.io/badge/httpx-0098EA?style=for-the-badge&labelColor=0d1117" alt="httpx" /><img src="https://img.shields.io/badge/ffuf-4B4B4B?style=for-the-badge&labelColor=0d1117" alt="ffuf" /><img src="https://img.shields.io/badge/subfinder-0a0a0a?style=for-the-badge&labelColor=0d1117" alt="subfinder" /><img src="https://img.shields.io/badge/katana-FF9800?style=for-the-badge&labelColor=0d1117" alt="katana" /></p>
 
 **re / static**
 
-<img src="https://img.shields.io/badge/IDA%20Pro-1B5E20?style=for-the-badge&labelColor=0d1117" alt="IDA Pro" />
-<img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&labelColor=0d1117" alt="Ghidra" />
-<img src="https://img.shields.io/badge/Semgrep-1B73E8?style=for-the-badge&labelColor=0d1117&logo=semgrep&logoColor=white" alt="Semgrep" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&labelColor=0d1117&logo=wireshark&logoColor=white" alt="Wireshark" />
+<p><img src="https://img.shields.io/badge/IDA%20Pro-1B5E20?style=for-the-badge&labelColor=0d1117" alt="IDA Pro" /><img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&labelColor=0d1117" alt="Ghidra" /><img src="https://img.shields.io/badge/Semgrep-1B73E8?style=for-the-badge&labelColor=0d1117&logo=semgrep&logoColor=white" alt="Semgrep" /><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&labelColor=0d1117&logo=wireshark&logoColor=white" alt="Wireshark" /></p>
 
 **lab / os**
 
