@@ -24,8 +24,6 @@ $ whoami
 alexander · @inflictx
 $ cat /proc/self/status | grep -i role
 Role:    bug bounty hunter
-$ uname -a
-linux moscow 6.11.2-amd64 #1 SMP PREEMPT_DYNAMIC Russia GMT+3
 ```
 
 ```yaml
@@ -72,17 +70,6 @@ host          ░░░░░  kali (vbox) · windows host · ssh/socks/wireguar
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="js" width="32" height="32"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="sql" width="32" height="32"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="bash" width="32" height="32"/>
-</p>
-
----
-
-### `~/info`
-
-<p>
-  <img src="https://img.shields.io/github/followers/inflictx?style=for-the-badge&color=00ff00&labelColor=0d1117&logo=github&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/location-moscow%2C%20ru-00ff00?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/gmt-%2B3-00ff00?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/disclosure-coordinated-00ff00?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
