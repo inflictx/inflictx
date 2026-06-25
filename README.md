@@ -46,10 +46,10 @@ Offline arsenal for pentesters & bug bounty hunters, open-sourced.
 <br>payloads · click-to-build commands · GTFOBins · checklists · one search across everything. fully offline, RU/EN.
 
 [![live demo](https://img.shields.io/badge/▶_live_demo-496dff?style=for-the-badge&labelColor=0d1117)](https://inflictx.github.io/Arsenal/)
-[![stars](https://img.shields.io/github/stars/inflictx/Arsenal?style=for-the-badge&logo=github&logoColor=496dff&label=stars&color=0d1117&labelColor=0d1117)](https://github.com/inflictx/Arsenal/stargazers)
+[![stars](https://img.shields.io/github/stars/inflictx/Arsenal?style=for-the-badge&logo=github&logoColor=496dff&label=stars&color=0d1117&labelColor=0d1117&cacheSeconds=600&v=2)](https://github.com/inflictx/Arsenal/stargazers)
 [![release](https://img.shields.io/github/v/release/inflictx/Arsenal?style=for-the-badge&label=release&color=0d1117&labelColor=0d1117)](https://github.com/inflictx/Arsenal/releases)
 ![license](https://img.shields.io/badge/license-GPL--3.0-0d1117?style=for-the-badge)
 
-[![ARS3NAL](https://github-readme-stats.vercel.app/api/pin/?username=inflictx&repo=Arsenal&bg_color=0d1117&title_color=496dff&icon_color=496dff&text_color=c9d1d9&hide_border=true)](https://github.com/inflictx/Arsenal)
+[![ARS3NAL](https://github-readme-stats.vercel.app/api/pin/?username=inflictx&repo=Arsenal&bg_color=0d1117&title_color=496dff&icon_color=496dff&text_color=c9d1d9&hide_border=true&v=2)](https://github.com/inflictx/Arsenal)
 
 </div>
